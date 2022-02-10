@@ -9,3 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Mod created
+
+#### Changed
+- removed `google_news` references from `head.html` partial
+- removed Prism.js client-side syntax highlighter, since it was overriding default server-side Pygments highlighter
