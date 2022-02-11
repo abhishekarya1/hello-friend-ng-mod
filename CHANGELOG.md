@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### Changed
 - added separator between menu item and theme toggle button in header
 - added custom footer
-
+- low contrast in code in light theme fixed
 
 ## 2022-02-10
 
