@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 ## 2022-02-11
+
+## Added
+- `blogDesc` to describe blog on posts list page from `config.toml` 
+
 #### Changed
 - added separator between menu item and theme toggle button in header
 - added custom footer
