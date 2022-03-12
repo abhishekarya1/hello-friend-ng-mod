@@ -1,10 +1,13 @@
----
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-draft: true
-toc: false
-images:
-tags:
-  - untagged
----
-
++++
+title = "{{ replace .Name "-" " " | title }}"
+description = ""
+type = ["posts","post"]
+tags = [
+]
+date = {{ .Date }}
+categories = [
+]
+series = []
+[ author ]
+  name = " "
++++
